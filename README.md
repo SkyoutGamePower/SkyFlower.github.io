@@ -1,2 +1,2 @@
-# SkyFlower.github.io
-GDPR
+# SkyFlower.github.io/gdpr.txt
+gdpr
